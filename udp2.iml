@@ -28,7 +28,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -43,12 +43,6 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="commons-lang3-3.9" level="project" />
-    <orderEntry type="library" name="mysql-connector-java-8.0.20" level="project" />
-    <orderEntry type="library" name="hutool-all-5.4.3" level="project" />
-    <orderEntry type="library" name="cpkapi-2.2.0" level="project" />
-    <orderEntry type="library" name="lombok-1.16.10" level="project" />
-    <orderEntry type="library" name="mysql-connector-java-8.0.201" level="project" />
-    <orderEntry type="library" name="bcprov-jdk15on-1.65" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
   </component>
 </module>

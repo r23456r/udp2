@@ -2,9 +2,10 @@
   <artifact type="jar" name="udpServer">
     <output-path>D:/</output-path>
     <root id="archive" name="udpServer.jar">
-      <element id="file-copy" path="D:/1app/FineReport_9.0/plugins/plugin-com.fr.plugin.mobile.push-1.1/lib/fastjson-1.1.32.jar" />
-      <element id="file-copy" path="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.8/lombok-1.18.8.jar" />
-      <element id="file-copy" path="$USER_HOME$/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar" />
+      <element id="file-copy" path="$USER_HOME$/桌面/cpkapi-2.2.1.jar" />
+      <element id="file-copy" path="$USER_HOME$/桌面/lombok-1.18.20.jar" />
+      <element id="file-copy" path="$USER_HOME$/桌面/jackson-annotations-2.12.4.jar" />
+      <element id="file-copy" path="$USER_HOME$/桌面/fastjson-1.2.70.jar" />
     </root>
   </artifact>
 </component>

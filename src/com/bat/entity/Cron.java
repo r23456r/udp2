@@ -1,7 +1,5 @@
 package com.bat.entity;
 
-import org.apache.commons.lang3.RandomUtils;
-
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Random;
